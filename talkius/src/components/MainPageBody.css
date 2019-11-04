@@ -1,0 +1,20 @@
+#mainPageTitle{
+    font-size: 40px;
+    margin:20px 40px 40px 250px;
+    color:palevioletred ;
+}
+#logo{
+    width: 180px;
+}
+#jumbotronText{
+    font-size: 30px;
+    color: palevioletred;
+    
+}
+#jumbotron{
+    background-color:indigo;
+}
+#mainPageImages{
+    margin-left: 10px;
+
+}
